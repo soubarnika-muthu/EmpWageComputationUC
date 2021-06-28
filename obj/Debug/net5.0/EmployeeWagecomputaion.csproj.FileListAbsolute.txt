@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\bin\Debug\net5.0\EmployeeWagecomputaion.exe
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\bin\Debug\net5.0\EmployeeWagecomputaion.deps.json
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\bin\Debug\net5.0\EmployeeWagecomputaion.runtimeconfig.json
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\bin\Debug\net5.0\EmployeeWagecomputaion.runtimeconfig.dev.json
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\bin\Debug\net5.0\EmployeeWagecomputaion.dll
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\bin\Debug\net5.0\ref\EmployeeWagecomputaion.dll
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\bin\Debug\net5.0\EmployeeWagecomputaion.pdb
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\obj\Debug\net5.0\EmployeeWagecomputaion.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\obj\Debug\net5.0\EmployeeWagecomputaion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\obj\Debug\net5.0\EmployeeWagecomputaion.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\obj\Debug\net5.0\EmployeeWagecomputaion.AssemblyInfo.cs
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\obj\Debug\net5.0\EmployeeWagecomputaion.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\obj\Debug\net5.0\EmployeeWagecomputaion.dll
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\obj\Debug\net5.0\ref\EmployeeWagecomputaion.dll
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\obj\Debug\net5.0\EmployeeWagecomputaion.pdb
+C:\Users\hp\source\repos\EmployeeWagecomputaion\EmployeeWagecomputaion\obj\Debug\net5.0\EmployeeWagecomputaion.genruntimeconfig.cache
